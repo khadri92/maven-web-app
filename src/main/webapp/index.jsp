@@ -6,7 +6,7 @@
   
   <h2> Call Us : + 91 - 000000000 / 0000000000</h2>
   
-  <h3> Office Location : Mindspace, Hyderbad </h3>
+  <h3> Office Location :  Hyderbad </h3>
   
  <p> All the best my dear friend....</p>
 
